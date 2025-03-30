@@ -7,4 +7,9 @@ This project is a digital implementation of the classic Connect Four board game.
 **Game Components**
 
 * A 6x7 empty grid representing the Connect Four board.  
-* Two players, each with a unique disc color (e.g., Yellow and Red).  
+* Two players, each with a unique disc color (e.g., Yellow and Red).
+
+**How to Run**
+
+1. Compile the JavaScript and CSS files
+2. Run the HTML file
